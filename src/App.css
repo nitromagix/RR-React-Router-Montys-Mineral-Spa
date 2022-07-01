@@ -92,3 +92,9 @@ li:hover {
   font-size: 25px;
   margin: 20px;
 }
+
+.package {
+   background-color: #fff;
+   width: 75%;
+   margin: 0 auto;
+}
